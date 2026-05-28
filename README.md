@@ -10,7 +10,7 @@ så
 De manglende opgaver er **13_5 til 17.**
 Formatter er MD, så hvis du klikker på vinduet open preview, kan du se dem i pænere format.
 ![preview knap](image.png)
-
+Hvis du ser dem direkte på github behøver du ikke gør noget - det ser pænt ud i formattet i browseren.
 
 
 Mvh Emma
